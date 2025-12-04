@@ -21,7 +21,7 @@ namespace Project1.Controllers
         [HttpGet]
         public ActionResult getAllProjects()
         {
-            var projects = context.projects.ToList();
+            var projects = context.Projects.ToList();
             return Ok(projects);
         }
 
