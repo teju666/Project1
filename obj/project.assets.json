@@ -2773,11 +2773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Project1/Project1/Project1/Project1.csproj",
+      "projectUniqueName": "/workspaces/Project1/Project1.csproj",
       "projectName": "Project1",
-      "projectPath": "/workspaces/Project1/Project1/Project1/Project1.csproj",
+      "projectPath": "/workspaces/Project1/Project1.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Project1/Project1/Project1/obj/",
+      "outputPath": "/workspaces/Project1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

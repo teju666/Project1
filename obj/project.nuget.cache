@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xMaoWhMCkAA=",
+  "dgSpecHash": "juDSOt1UgMw=",
   "success": true,
-  "projectFilePath": "/workspaces/Project1/Project1/Project1/Project1.csproj",
+  "projectFilePath": "/workspaces/Project1/Project1.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",

@@ -2,7 +2,6 @@ using Microsoft.AspNetCore.Mvc;
 using Project1.Data;
 using Project1.Models.Entities;
 using Microsoft.EntityFrameworkCore;
-using Project1.Data;
 using Project1.Models.Dtos;
 
 
