@@ -1,0 +1,8 @@
+/workspaces/Project1/Project1/Project1/obj/Debug/net8.0/Project1.csproj.AssemblyReference.cache
+/workspaces/Project1/Project1/Project1/obj/Debug/net8.0/Project1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Project1/Project1/Project1/obj/Debug/net8.0/Project1.AssemblyInfoInputs.cache
+/workspaces/Project1/Project1/Project1/obj/Debug/net8.0/Project1.AssemblyInfo.cs
+/workspaces/Project1/Project1/Project1/obj/Debug/net8.0/Project1.csproj.CoreCompileInputs.cache
+/workspaces/Project1/Project1/Project1/obj/Debug/net8.0/Project1.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/Project1/Project1/Project1/obj/Debug/net8.0/Project1.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Project1/Project1/Project1/obj/Debug/net8.0/Project1.sourcelink.json
